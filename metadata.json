@@ -1,0 +1,5 @@
+{
+  "name": "Smart Image-to-Table Converter",
+  "description": "Convert images of tables, invoices, and forms into structured, editable HTML tables and export to Excel or PDF using AI.",
+  "requestFramePermissions": ["camera"]
+}
